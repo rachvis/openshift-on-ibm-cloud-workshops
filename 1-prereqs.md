@@ -29,7 +29,7 @@ For the rest of the labs we will use the IBM Cloud Shell (Beta):
 In the IBM Cloud Shell execute the following commands:
 
 ```
-$ git clone https://github.com/IBM/openshift-on-ibm-cloud-workshops.git
+$ git clone https://github.com/rachvis/openshift-on-ibm-cloud-workshops.git
 $ cd openshift-on-ibm-cloud-workshops
 $ ROOT_FOLDER=$(pwd)
 ```
